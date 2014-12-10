@@ -1,0 +1,200 @@
+Running trial 1
+Satisfying assignment found on try 60
+Running trial 2
+Satisfying assignment found on try 872
+Running trial 3
+No satisfying assignment found.
+Running trial 4
+No satisfying assignment found.
+Running trial 5
+Satisfying assignment found on try 6
+Running trial 6
+Satisfying assignment found on try 305
+Running trial 7
+No satisfying assignment found.
+Running trial 8
+Satisfying assignment found on try 105
+Running trial 9
+No satisfying assignment found.
+Running trial 10
+Satisfying assignment found on try 387
+Running trial 11
+No satisfying assignment found.
+Running trial 12
+Satisfying assignment found on try 496
+Running trial 13
+Satisfying assignment found on try 826
+Running trial 14
+No satisfying assignment found.
+Running trial 15
+Satisfying assignment found on try 175
+Running trial 16
+Satisfying assignment found on try 30
+Running trial 17
+Satisfying assignment found on try 623
+Running trial 18
+Satisfying assignment found on try 83
+Running trial 19
+Satisfying assignment found on try 4
+Running trial 20
+Satisfying assignment found on try 734
+Running trial 21
+Satisfying assignment found on try 546
+Running trial 22
+Satisfying assignment found on try 136
+Running trial 23
+Satisfying assignment found on try 19
+Running trial 24
+Satisfying assignment found on try 357
+Running trial 25
+No satisfying assignment found.
+Running trial 26
+Satisfying assignment found on try 21
+Running trial 27
+No satisfying assignment found.
+Running trial 28
+Satisfying assignment found on try 77
+Running trial 29
+Satisfying assignment found on try 3
+Running trial 30
+Satisfying assignment found on try 281
+Running trial 31
+Satisfying assignment found on try 402
+Running trial 32
+Satisfying assignment found on try 554
+Running trial 33
+No satisfying assignment found.
+Running trial 34
+Satisfying assignment found on try 60
+Running trial 35
+Satisfying assignment found on try 632
+Running trial 36
+No satisfying assignment found.
+Running trial 37
+Satisfying assignment found on try 468
+Running trial 38
+Satisfying assignment found on try 171
+Running trial 39
+No satisfying assignment found.
+Running trial 40
+Satisfying assignment found on try 29
+Running trial 41
+Satisfying assignment found on try 855
+Running trial 42
+Satisfying assignment found on try 192
+Running trial 43
+Satisfying assignment found on try 935
+Running trial 44
+No satisfying assignment found.
+Running trial 45
+No satisfying assignment found.
+Running trial 46
+Satisfying assignment found on try 39
+Running trial 47
+No satisfying assignment found.
+Running trial 48
+No satisfying assignment found.
+Running trial 49
+No satisfying assignment found.
+Running trial 50
+Satisfying assignment found on try 756
+Running trial 51
+Satisfying assignment found on try 51
+Running trial 52
+Satisfying assignment found on try 199
+Running trial 53
+Satisfying assignment found on try 73
+Running trial 54
+Satisfying assignment found on try 256
+Running trial 55
+Satisfying assignment found on try 66
+Running trial 56
+Satisfying assignment found on try 11
+Running trial 57
+No satisfying assignment found.
+Running trial 58
+No satisfying assignment found.
+Running trial 59
+Satisfying assignment found on try 28
+Running trial 60
+No satisfying assignment found.
+Running trial 61
+Satisfying assignment found on try 231
+Running trial 62
+Satisfying assignment found on try 52
+Running trial 63
+No satisfying assignment found.
+Running trial 64
+No satisfying assignment found.
+Running trial 65
+Satisfying assignment found on try 22
+Running trial 66
+Satisfying assignment found on try 309
+Running trial 67
+Satisfying assignment found on try 81
+Running trial 68
+No satisfying assignment found.
+Running trial 69
+No satisfying assignment found.
+Running trial 70
+Satisfying assignment found on try 81
+Running trial 71
+No satisfying assignment found.
+Running trial 72
+Satisfying assignment found on try 368
+Running trial 73
+Satisfying assignment found on try 230
+Running trial 74
+Satisfying assignment found on try 232
+Running trial 75
+No satisfying assignment found.
+Running trial 76
+Satisfying assignment found on try 48
+Running trial 77
+No satisfying assignment found.
+Running trial 78
+No satisfying assignment found.
+Running trial 79
+Satisfying assignment found on try 72
+Running trial 80
+Satisfying assignment found on try 644
+Running trial 81
+Satisfying assignment found on try 11
+Running trial 82
+Satisfying assignment found on try 65
+Running trial 83
+Satisfying assignment found on try 57
+Running trial 84
+No satisfying assignment found.
+Running trial 85
+Satisfying assignment found on try 691
+Running trial 86
+Satisfying assignment found on try 403
+Running trial 87
+Satisfying assignment found on try 285
+Running trial 88
+Satisfying assignment found on try 184
+Running trial 89
+Satisfying assignment found on try 260
+Running trial 90
+Satisfying assignment found on try 2
+Running trial 91
+Satisfying assignment found on try 9
+Running trial 92
+Satisfying assignment found on try 868
+Running trial 93
+Satisfying assignment found on try 6
+Running trial 94
+Satisfying assignment found on try 504
+Running trial 95
+No satisfying assignment found.
+Running trial 96
+Satisfying assignment found on try 590
+Running trial 97
+No satisfying assignment found.
+Running trial 98
+Satisfying assignment found on try 50
+Running trial 99
+Satisfying assignment found on try 899
+Running trial 100
+Satisfying assignment found on try 401
